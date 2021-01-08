@@ -36,12 +36,7 @@ p
     
 }
 
-#header 
-{
-    padding-top: 42px;
-    padding-left: 82px;
-    top: 0;
-}
+
 
 #contenu 
 {   
@@ -51,72 +46,6 @@ p
     width: 100%;
 }
 
-#footer 
-{
-    text-align: center;
-    background-color: #5c5b5b;
-    padding: 40px 15px 15px 40px;
-}
-
-#menu 
-{
-    height: 34px;
-    font-size: 130%;
-    color: #FFFFFF;
-    font-variant: small-caps;
-    text-align: center;
-}
-
-.element 
-{
-    display: inline;
-    cursor: pointer;
-    margin-right: 15px;
-    padding: 0 0 0 6px;
-    font-size: 25px;
-}
-
-.element a 
-{
-    text-decoration: none;
-    color: #FFFFFF;
-}
-
-.element2 
-{   
-    text-align: center;
-    margin-right: auto;
-    margin-left: auto;
-    font-size: 25px;
-}
-
-.element2 a
-{
-    text-decoration: none;
-    color: #5d5d5d;    
-}
-
-.float
-{
-    float: left;
-    margin-left: -80px;
-}
-
-.saison
-{
-    color: #2b2a2a;
-    font-size: 25px;
-}
-
-.episode
-{
-    color: #2b2a2a;
-    font-size: 20px;
-}
-.acceuil
-{
-    color: #9f9f9f;
-}
 
 .img
 {
